@@ -1,0 +1,3 @@
+# Triton kernel development dependencies.
+# Triton wheels target Linux GPU environments.
+triton>=3.0

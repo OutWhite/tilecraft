@@ -1,0 +1,4 @@
+# NVIDIA CuTe DSL for CUDA 12 environments.
+# Install on Linux/CUDA GPU runners, for example leetgpu:
+#   python -m pip install -r requirements/cute-cu12.txt
+nvidia-cutlass-dsl>=4.4

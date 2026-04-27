@@ -1,0 +1,4 @@
+# NVIDIA CuTe DSL for CUDA 13 environments.
+# Install on Linux/CUDA GPU runners, for example leetgpu:
+#   python -m pip install -r requirements/cute-cu13.txt
+nvidia-cutlass-dsl[cu13]>=4.4
